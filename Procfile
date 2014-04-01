@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* --port $PORT target/*.war
+web:    java -cp target/classes:target/dependency/* com/loyola473/project4/CompositePattern
