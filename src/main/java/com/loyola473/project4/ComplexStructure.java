@@ -1,4 +1,4 @@
-package com.project4;
+package com.loyola473.project4;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -4,10 +4,31 @@
     <list default="true" id="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" name="Default" comment="" />
     <ignored path="CompositePattern.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/HelloWorld.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396383559650" ignored="false" />
+    <file path="/HelloWorld.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396385135502" ignored="false" />
     <file path="/fragment.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396383753487" ignored="false" />
     <file path="/Dummy.txt" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396382892822" ignored="false" />
     <file path="/Procfile" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396384742252" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/pom.xml" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396393991657" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Fixtures.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394111655" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Tree.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394111654" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Mango.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394111654" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Peach.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394252548" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Cluster.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394111655" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Branch.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394111655" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Fruit.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394346664" ignored="false" />
+    <file path="$PROJECT_DIR$/../FruitsCompositePattern/src/main/java/com/loyola473/composite/Main.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394176647" ignored="false" />
+    <file path="/Main.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396397261294" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/pom.xml" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394438727" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/src/main/java/com/loyola473/composite/Main.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396395661781" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/src/main/java/com/loyola473/composite/Unit.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394778250" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/src/main/java/com/loyola473/composite/Node.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394505032" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/src/main/java/com/loyola473/composite/Person.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394511925" ignored="false" />
+    <file path="/Unit.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394768312" ignored="false" />
+    <file path="$PROJECT_DIR$/../OrgChart/src/main/java/com/loyola473/composite/GroupName.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396394781252" ignored="false" />
+    <file path="/Roof.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396397802565" ignored="false" />
+    <file path="/CompositePattern.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396398908132" ignored="false" />
+    <file path="/HouseComponent.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396398518245" ignored="false" />
+    <file path="/test.java" changelist="9bce000a-f3bf-4e95-b5ea-a655dbd868d3" time="1396399322523" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +89,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="54" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompositePattern.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CompositePattern.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/CompositePattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="29" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
+            <state line="88" column="28" selection-start="2948" selection-end="2948" vertical-scroll-proportion="0.35493827">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,10 +100,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+      <file leaf-file-name="ComplexStructure.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/ComplexStructure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="75" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+            <state line="9" column="20" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="17" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blank.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Blank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,8 +140,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/CompositePattern.java" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/Blank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/ComplexStructure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/PartialBlock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/Platform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/FullBlock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/DoorHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/HouseComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/Roof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/loyola473/project4/CompositePattern.java" />
       </list>
     </option>
   </component>
@@ -292,6 +332,22 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.loyola473.project4.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Project4" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -402,12 +458,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.CompositePattern" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Application.CompositePattern" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -439,10 +497,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17438868" sideWeight="0.6703755" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17438868" sideWeight="0.88873434" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17631918" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22715573" sideWeight="0.4867872" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5132128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -522,18 +580,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/CompositePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="29" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
+        <state line="39" column="26" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -542,6 +591,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="75" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/PartialBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.07472528">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/HouseComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="279" selection-end="279" vertical-scroll-proportion="0.10075567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.2959381">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="365" column="0" selection-start="13550" selection-end="13550" vertical-scroll-proportion="0.34383956">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Roof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/FullBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/DoorHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="8" selection-start="146" selection-end="146" vertical-scroll-proportion="0.23017408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Blank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/ComplexStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/loyola473/project4/CompositePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="28" selection-start="2948" selection-end="2948" vertical-scroll-proportion="0.35493827">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
